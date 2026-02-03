@@ -81,10 +81,7 @@ Read `a cookiecutter template for writing Datasette plugins <https://simonwillis
 Packaging a plugin
 ------------------
 
-.. _writing_plugins_packaging:
 
-Packaging a plugin
-------------------
 
 Plugins should be packaged using a ``pyproject.toml`` file. Here is an example plugin structure:
 
